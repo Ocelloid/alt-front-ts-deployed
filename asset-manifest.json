@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/alt-front-ts/static/css/main.111620b0.css",
+    "main.js": "/alt-front-ts/static/js/main.f3d9f3d3.js",
+    "static/js/787.a09073d0.chunk.js": "/alt-front-ts/static/js/787.a09073d0.chunk.js",
+    "index.html": "/alt-front-ts/index.html",
+    "main.111620b0.css.map": "/alt-front-ts/static/css/main.111620b0.css.map",
+    "main.f3d9f3d3.js.map": "/alt-front-ts/static/js/main.f3d9f3d3.js.map",
+    "787.a09073d0.chunk.js.map": "/alt-front-ts/static/js/787.a09073d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.111620b0.css",
+    "static/js/main.f3d9f3d3.js"
+  ]
+}

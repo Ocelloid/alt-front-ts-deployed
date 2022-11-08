@@ -1,1 +1,0 @@
-# alt-front-ts-deployed
